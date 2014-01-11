@@ -1,1 +1,1 @@
-This is my first message on github
+This is my first message on GITHUB.
